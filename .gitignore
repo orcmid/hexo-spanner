@@ -1,0 +1,49 @@
+# .gitignore 0.0.1                     UTF-8                    dh:2016-12-06
+#                       SPANNER WINGNUT'S MUDDLEWARE LAB
+#                        ================================
+#                        
+#            source: nfoCentrale/spanner/.gitignore 
+#           archive: $/HexoSpanner/.gitignore
+#
+#                        HEXO AUTHORING-FOLDER DEVELOPMENT
+#                        ---------------------------------
+#
+#              .GITIGNORE FOR RESTRICTING GIT EMBRACE OF CONTENT
+#
+#   This .gitignore file keeps themes and non-source materials beyond the
+#   overall authoring folder source-code management.  There is enough for
+#   restoration of authoring and the site content once the applicable theme
+#   is also restored.
+
+## ELIMINATE AUTHORING ARTIFACTS
+## -----------------------------
+
+#   jEdit backup and working files
+*~
+*#
+#   Visual Source Safe artifacts
+*.scc
+
+## ELIMINATE EPHEMERAL/DERIVED HEXO MATERIALS
+## ------------------------------------------
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+## SEPARATE THEMES MATERIAL
+## ------------------------
+
+themes/
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# 0.0.1 2017-12-06-17:17 Decorate for nfoCentrale/spanner usage
+# 0.0.0 2017-10-25-10:09 Initial .gitignore from Hexo Install
+
+
+#                    *** end of .gitignore ***
