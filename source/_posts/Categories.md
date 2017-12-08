@@ -54,6 +54,9 @@ tags:
  * There is too much use of very light small caps items, and the light date on posts.  Along with major features that require work and testing, these touch-ups will be important for the legibility and personality of nfoCentrale blogs.
  
  * <strike>For the record, it is worthwhile to review posts so far and introduce tags and categories.</strike> *done 2017-12-03*
+ 
+ * Categories are touchy.  It is possible to create peers at the same level
+   (e.g., in the [blogs](http://orcmid.com/BlunderDome/wingnut/hexo-categories/blogs/) category).  <strike>However, changes in a categories of a post are not detected and defects will be preserved.  I am looking at how to trigger post and category tree regeneration. *added 2017-12-08*</strike> When fixed in the front matter, category changes are detected and reflected.  Deletions will remain on the hosted site until explicitly removed, but not serious. *updated 2017-12-08*
 
 > *updated 2017-12-03* to correct a heading, add tags, and record observations 
 

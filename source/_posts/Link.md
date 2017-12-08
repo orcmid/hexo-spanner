@@ -4,7 +4,7 @@ date: 2017-12-07 19:47:50
 link: https://www.bing.com/
 categories:
 - [Authoring, Markdown]
-- [Bloc Development, Hexo, landscape theme]
+- [Blog Development, Hexo, landscape theme]
 - [blogs, Spanner Wingnut]
 tags:
 - Hexo
@@ -30,7 +30,7 @@ date: 2017-12-07 19:47:50
 link: https://www.bing.com/
 categories:
 - [Authoring, Markdown]
-- [Bloc Development, Hexo, landscape theme]
+- [Blog Development, Hexo, landscape theme]
 - [blogs, Spanner Wingnut]
 tags:
 - Hexo
