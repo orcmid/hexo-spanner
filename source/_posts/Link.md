@@ -41,11 +41,11 @@ tags:
 ---
 ```
 
-## Observvations ##
+## Observations ##
 
  * I don't see any way to use this.
  
  * Since clicking on the title is the standard way to access the single-page of a post, having that link go elsewhere sometimes strikes me as misleading.  
  
- * It is very subtle that the date links to the single-page of the post.  I need to make two posts on the same day and confirm that is actually what happens.
+ * It is very subtle that the date links to the single-page of the post.  I need to make two posts on the same day and confirm that is actually what happens.  It might be useful to provide a finer date stamp.  Or maybe simply not worry about it.  *expanded 2017-12-08*
  
