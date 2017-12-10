@@ -1,7 +1,7 @@
 ---
 title: Hexo Unit Test - Excerpts
 date: 2017-12-01 12:02:33
-updated: 2017-12-03 16:26:00
+updated: 2017-12-10 10:31:00
 categories:
  - [Authoring, Markdown]
  - [Blog Development, Hexo]
@@ -17,6 +17,7 @@ tags:
 
 This is the third in a series of Spanner Wingnut confirmation tests using the Hexo Unit Tests for Themes.  This test demonstrates how a post can be restricted to an exerpt on the front page of the blog, with the full post in the by-date permanent location of the post.
 
+The excerpt break is just below this paragraph.  To see it, find this post on the main page of the blog.  It is not revealed on the full-text permanent location of the post.  *added 2017-12-10*
 <!-- more -->
 
 This test is based on the [Hexo Theme Unit Test](https://github.com/hexojs/hexo-theme-unit-test) `excerpts.md` test file.  When implemented, it has a "read more" link and the remainder of the post page is only visible on the archive version, not on the front-page of the blog.
