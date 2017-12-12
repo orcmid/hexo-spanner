@@ -1,4 +1,4 @@
-# _config.yml 0.0.8                   UTF-8                     dh:2017-12-11
+# _config.yml 0.0.9                   UTF-8                     dh:2017-12-12
 #
 #                       SPANNER WINGNUT'S MUDDLEWARE LAB
 #                       ================================
@@ -94,7 +94,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-theme: wingnut                                              # 0.0.8
+theme: landscape                                            # 0.0.9
 ## landscape theme installed by default with initial Hexo   # 0.0.5
 ##    configuration, hexjos/hexo-theme-landscape, at  
 ##    <https://github.com/hexojs/hexo-theme-landscape>
@@ -115,6 +115,10 @@ deploy:
 #  * Find out how to deal with the category_map setting
 #  * Find out how to deal with the tag_map setting
 #
+# 0.0.9 2017-12-12-07:27 Switch theme name back to landscape because there 
+#       might be different themes at other times, and using wingnut is too
+#       generic.  And there is already much material that rfers to the theme
+#       as landscape.
 # 0.0.8 2017-12-11-19:20 Switch theme name to wingnut reflecting the 
 #       customization.  The A2wingnut.ctl will not need to be changed because
 #       it works from spanner/public.  Set per_page 0 in both places.
