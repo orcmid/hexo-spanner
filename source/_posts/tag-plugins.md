@@ -240,7 +240,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {% endpullquote %}
 ```
 
-will apply on the top-left corner of the paragraph that follows.
+will apply on the top-<strike>left</strike>right corner of the paragraph that follows. *touched-up 2017-12-12*
 
 {% pullquote right %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
