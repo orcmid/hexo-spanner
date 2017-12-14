@@ -1,7 +1,7 @@
 ---
 title: Curtain Raiser - Introducing Hexo
 date: 2017-11-21 15:37:37
-updated: 2017-12-03 16:58:00
+updated: 2017-12-13 17:27:00
 categories:
  - [Blog Development, Hexo]
  - [blogs, Spanner Wingnut]
@@ -18,7 +18,7 @@ Several provisions remain to be resolved.
  * Changing the highlighting of code blocks to something not so contrasty and unfavorable to soft/light colors
  * <strike>Changing the blog page header-block and banner image for something smaller and with all text easy to read</strike> *done 2017-11-26*
  * Addition of a favicon different than the default
- * Producing the Atom RSS feed with preservation of pre-Hexo feeds
+ * <strike>Producing the </strike>Atom RSS feed with preservation of pre-Hexo feeds. *done 2017-12-12 keeping the new feed separate*
  * Tying in the previous blog archives and feeds as they remain preserved and accessible
  * Removing the search button and feature
  * Removing instrumentation and tracking (e.g., Google Analytics)
