@@ -49,3 +49,5 @@ tags:
  
  * It is very subtle that the date links to the single-page of the post.  I need to make two posts on the same day and confirm that is actually what happens.  It might be useful to provide a finer date stamp.  Or maybe simply not worry about it.  *expanded 2017-12-08*
  
+ * The link apparently has no effect in the RSS.  In FeedDemon, the title links to the blog post location.  *added 2017-12-14*
+ 

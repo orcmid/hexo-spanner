@@ -46,5 +46,9 @@ The challenge is to see how the post remains accessible, how it appears in archi
  
  * It becomes interesting to know what happens if two no-title posts are produced on the same date.  
  
+ * In the RSS feed, the post is given the first heading of the page as its title.  So some sort of title always appears in FeedDemon, and it links to the post article. *added 2017-12-14*
+ 
+ * At the bottom of the post article where the Newer and Older article links appear, an untitled post at Newer is listed and linked as "(no title)."  In the Older position, there is no link and now text for an untitled post, bu the "Older" title will link to it.  *added 2017-12-14*
+ 
 
 

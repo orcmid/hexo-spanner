@@ -66,6 +66,8 @@ All photos should be displayed properly.
 
 ## Observations ##
 
+ * The gallery and images are not reflected in the RSS Atom feed of a gallery page.  This is another reason for avoiding this feature where an RSS record is important.  *added 2017-12-14*
+
  * The gallery view has each image fit within the browser-window.  Resizing can be used to provide larger or smaller views.
  
  * It is unclear to me whether there is much use of this in nfoCentrale blogs.  Part of it has to do with the absence of captions and of any indication that a gallery is being provided.  

@@ -17,7 +17,7 @@ tags:
 
 This is the eleventh in a series of Spanner Wingnut confirmation tests using the Hexo Unit Tests for Themes.  This test is the Wingnut counterpart of the [hexo-theme-unit-test](https://github.com/hexojs/hexo-theme-unit-test) `tags.md` post of 2013-12-24.
 
-The test involves introduction of three tages in the front matter. 
+The test involves introduction of three tags in the front matter. 
 
 ```
 tags:
@@ -77,4 +77,5 @@ Both listings have clickable tag names, providing an archive-style list of those
  
  * If tag maps were being used, it would be nice for those to be reflected on every page as the lastest.  This suggests to me that this should be generated at server access time, from stored data.  That changes how much on the site has to be regenerated, and might not be too intrusive.  That does sound like considerable effort and it changes the static character of the blog.  A quandary.
  
-
+ * In the RSS feed, the specified tags (and categories) are recorded.  The read feeder need not provide anything for them.  There is nothing available using FeedDemon. *added 2017-12-14*
+ 

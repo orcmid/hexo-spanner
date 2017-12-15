@@ -258,3 +258,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ligula justo, lobor
  
  * It would be useful to have a way to select different highlightings in code blocks within a single post.  Perhaps there are clues to be found digging into how highlight is integrated.
  
+ * In the RSS feed, Block Quote styling is not preserved.  With FeedDemon, emphasis is apparently determined by the viewer, although all features are handled. *added 2017-12-14*
+ 
+ * In the RSS feed, code blocks have no highlighting.  They are presented as text lines in monospace font. *added 2017-12-14*
+ 
+ * In the RSS feed, the Gist snippet result does not appear. *added 2017-12-14*
+ 
+ * In the RSS, jsFiddle presents a rendering of the field, but jstFiddle is not used. *added 2017-12-14*
+ 
+ * In the RSS, Pullquotes don't work.  They render as separate block quotes.  *added 2017-12-14*
+ 
