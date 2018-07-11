@@ -1,4 +1,4 @@
-# .gitattributes 0.0.2                UTF-8                       dh:2016-12-06
+# .gitattributes 0.0.3                UTF-8                      dh:2018-07-10
 #
 #                GIT ATTRIBUTES FOR THE SPANNER GIT REPOSITORY
 
@@ -15,21 +15,21 @@
 # Some of these might also be .gitignored.  Better safe than sorry.
 
 *.bmp binary
-*.lnk binary
-*.jpg binary
-*.otf binary
 *.eot binary
-*.ttf binary
-*.woff binary
+*.ico binary
+*.jpg binary
+*.lnk binary
+*.otf binary
 *.png binary
 *.suo binary
+*.ttf binary
+*.woff binary
 *.zip binary
 
+# 0.0.3 2018-07-10-17:25 Re-order the list and add .ico to the binary cases
 # 0.0.2 2017-12-06-17:54 Pinch from nfoTools for use with spanner/ and the
 #       Hexo data types.  Add binaries for fonts.
 # 0.0.1 2016-10-04-11:23 Create Minimal .gitattributes
 #       The 2015-01-07 version from ShowDefs is captured just to have one
 #       in place.
 #                          *** end of .gitattributes ***
-
-
