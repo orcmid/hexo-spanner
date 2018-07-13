@@ -1,6 +1,6 @@
 ws_ftp 0760 sync   0100 0760
 path1=D:\Documents\nfoCentrale\spanner\public
-profile2=A2wingnut
+profile2=MySites!A2Hosting
 path2=/public_html/orcmid/BlunderDome/wingnut
 RecurseDepth=0
 rulebase=0
