@@ -1,10 +1,9 @@
-themes.txt 0.0.0                       UTF-8                    dh:2019-01-08
+themes.txt 0.0.1                       UTF-8                    dh:2019-01-08
 
                          SPANNER WINGNUT'S MUDDLEWARE LAB
                          ================================
 
    source: nfoCentrale\spanner\themes\themes.txt
-  archive: $/HexoSpanner/themes/themes.txt
      repo: <http://github.com/orcmid/hexo-spanner/master/themes/themes.txt>
 
                            HEXO AUTHORING THEME FOLDERS
@@ -26,6 +25,15 @@ MANIFEST
                   Spanner Wingnut blog.  This file is managed under the
                   hexo-spanner GitHub repository.
 
+       icarus/    The files of ppoffice/hexo-theme-icarus customized as the
+                  icarus theme for the hexo-authored Spanner Wingnut blog.
+                  This foler and files are source-managed separate from the
+                  orcmid/hexo-spanner respository and are not close of the
+                  seeded ppoffice/hexo-theme-icarus.  This theme is managed
+                  at orcmid/hexo-theme-icarus-wingnut on GitHub.  More about
+                  the customizations and tests are incorporated in comments,
+                  manifest files, and Spanner Wingnut blog posts.
+
     landscape/    The files of hexojs/hexo-theme-landscape customized as the
                   landscape theme for the hexo-authored Spanner Wingnut blog.
                   This folder and files are source-managed separate from the
@@ -40,14 +48,17 @@ TODO:
  * Add license statement for this file and ensure consistency with the
    licensing and notices at the orcmid/hexo-spanner level.
 
- * If I am not using VSS any longer, remove the archive cases.  Reflect this
-   consideration at other levels.
-
  * Download and install ppoffice/hexo-theme-icarus and unzip under here,
    then customize for Spanner Wingnut.
 
+ * Customize the installation of icarus/ and work through configurations
+   that match functionally with the landscape work and without the header
+   glitch.
+
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+ 0.0.1 2019-01-08-22:01 Remove "archive:" VSS project location, since this is
+       not a file to be shared elsewhere in the source tree.
  0.0.0 2019-01-08-16:01 Include under hexo-spanner source control in
        preparation for introduction of alternative themes.
 
