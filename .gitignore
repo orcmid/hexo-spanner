@@ -1,8 +1,8 @@
-# .gitignore 0.0.1                     UTF-8                    dh:2016-12-06
+# .gitignore 0.0.2                     UTF-8                    dh:2019-01-08
 #                       SPANNER WINGNUT'S MUDDLEWARE LAB
 #                        ================================
-#                        
-#            source: nfoCentrale/spanner/.gitignore 
+#
+#            source: nfoCentrale/spanner/.gitignore
 #           archive: $/HexoSpanner/.gitignore
 #
 #                        HEXO AUTHORING-FOLDER DEVELOPMENT
@@ -38,10 +38,12 @@ public/
 ## SEPARATE THEMES MATERIAL
 ## ------------------------
 
-themes/
+themes/landscape/
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+# 0.0.2 2019-01-08-13:43 Allow themes level but not subdirectories for
+#       individual themes.  Preparing for additional themes.
 # 0.0.1 2017-12-06-17:17 Decorate for nfoCentrale/spanner usage
 # 0.0.0 2017-10-25-10:09 Initial .gitignore from Hexo Install
 

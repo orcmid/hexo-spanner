@@ -1,0 +1,55 @@
+themes.txt 0.0.0                       UTF-8                    dh:2019-01-08
+
+                         SPANNER WINGNUT'S MUDDLEWARE LAB
+                         ================================
+
+   source: nfoCentrale\spanner\themes\themes.txt
+  archive: $/HexoSpanner/themes/themes.txt
+     repo: <http://github.com/orcmid/hexo-spanner/master/themes/themes.txt>
+
+                           HEXO AUTHORING THEME FOLDERS
+                           ----------------------------
+
+    Hexo allows any number of theme folders to be added to the hexo-authoring
+    folders for a given blog.  The particular theme applied in generating the
+    blog is specified in the hexo-level _config.yml file.
+
+    For hexo-spanner, this file and folder is part of the orcmid/hexo-spanner
+    repository.  Individual-theme subfolders are excluded, each having their
+    own source-code repository, even for the landscape theme installed as part
+    of hexojs/hexo
+
+MANIFEST
+
+       themes.txt This manifest and description file for the themes folder
+                  of the hexo-spanner source files for the hexo-authored
+                  Spanner Wingnut blog.  This file is managed under the
+                  hexo-spanner GitHub repository.
+
+    landscape/    The files of hexojs/hexo-theme-landscape customized as the
+                  landscape theme for the hexo-authored Spanner Wingnut blog.
+                  This folder and files are source-managed separate from the
+                  orcmid/hexo-spanner repository.  Instead this customized
+                  theme is managed at orcmid/hexo-theme-landscape-wingnut and
+                  is not a fork of hexojs/hexo-theme-landscape.
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+TODO:
+
+ * Add license statement for this file and ensure consistency with the
+   licensing and notices at the orcmid/hexo-spanner level.
+
+ * If I am not using VSS any longer, remove the archive cases.  Reflect this
+   consideration at other levels.
+
+ * Download and install ppoffice/hexo-theme-icarus and unzip under here,
+   then customize for Spanner Wingnut.
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ 0.0.0 2019-01-08-16:01 Include under hexo-spanner source control in
+       preparation for introduction of alternative themes.
+
+
+                       ***** end of themes.txt *****
