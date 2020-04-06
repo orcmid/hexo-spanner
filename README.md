@@ -1,4 +1,7 @@
 # hexo-spanner
+
+## DORMANT PROJECT: Preserved for Archival Purposes ##
+
 The authoring folder for the Spanner Wingnut blog
 
 This project provides source-code management and preservation of the desktop development folder for the [Spanner Wingnut Muddleware Labs](http://orcmid.com/BlunderDome/wingnut) blog.
